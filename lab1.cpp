@@ -1,7 +1,5 @@
 #include <iostream>
 #include <chrono>
-#include <vector>
-#include <random>
 
 struct Set {
     double el;
